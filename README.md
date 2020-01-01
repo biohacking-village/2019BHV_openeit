@@ -56,7 +56,7 @@ The Open EIT site provides information on installation and then how to produce t
 
 3. EIT Algorithms
 
-<img src="media/BHV19_BHV19_openeit_tom.png" width="500"> 
+<img src="media/BHV19_openeit_tom.png" width="500"> 
 
 
 
